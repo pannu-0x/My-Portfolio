@@ -44,7 +44,7 @@ body{
     font-weight: 500;
     margin-left: 35px;
     opacity: 0;
-    animation: slideTop 3s ease forwards;
+    animation: slideTop 1s ease forwards;
     animation-delay: calc(.1s * var(--i));
 }
 
