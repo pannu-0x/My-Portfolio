@@ -6,10 +6,14 @@ var Typed = new Typed(".multiple-text", {
     loop: true
 })
 
-let menuIcon = document.querySelector('#menu-icon');
-let navbar = document.querySelector('.navbar');
+document.addEventListener("DOMContentLoaded", () => {
+  let menuIcon = document.querySelector('#menu-icon');
+  let navbar = document.querySelector('.navbar');
 
-menuIcon.onclick = () => {
-  navbar.classList.toggle('active');
-  menuIcon.classList.toggle('bx-x'); // change icon when active
-};
+  if (menuIcon && navbar) {
+    menuIcon.onclick = () => {
+      navbar.classList.toggle('active');
+      menuIcon.classList.toggle('bx-x'); // change icon when active
+    };
+  }
+});
