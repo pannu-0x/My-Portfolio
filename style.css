@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    width: 100%;
 }
 
 body{
@@ -214,3 +215,30 @@ body{
     }
     
 }
+
+
+/* Mobile (small devices) */
+@media (max-width: 576px) {
+  body {
+    font-size: 14px;
+  }
+  .container {
+    padding: 10px;
+  }
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* Tablets */
+@media (max-width: 768px) {
+  .portfolio-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
