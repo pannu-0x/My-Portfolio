@@ -177,6 +177,7 @@ body{
     align-items: center;
 }
 .aboutme-content p{
+  background: transparent;
   color: #fff;
 
 }
