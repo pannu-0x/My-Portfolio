@@ -155,38 +155,6 @@ body{
     animation: slideTop 1s ease forwards;
     animation-delay: 1s;
 }
-/* About Me css */
-
-.aboutme{
-    position: relative;
-    background-color: #1f242d;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: space-between;
-    padding: 10% 100px 0;
-    font-family: 'Poppins', sans-serif;
-  
-}
-.aboutme-content h2{
-    font-size: 25px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 600;
-    justify-content: center;
-    align-items: center;
-}
-.aboutme-content p{
-  font-size: 16px;
-  
-  color: #fff;
-
-}
-
-.aboutme-content h5{
-  color: #fff;
-
-}
 
 /*  KEYFRAME ANIMATION*/
 @keyframes slideRight {
@@ -327,3 +295,41 @@ body{
   }
 }
 
+/* About Me css */
+
+.aboutme{
+    position: relative;
+    background-color: #1f242d;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 10% 100px 0;
+    font-family: 'Poppins', sans-serif;
+  
+}
+.aboutme-content h2{
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+}
+.aboutme-content p{
+  font-size: 16px;
+  
+  color: #fff;
+
+}
+
+.aboutme-content h5{
+  color: #fff;
+
+}
+
+.aboutme-content span::highlight{
+  color: #0ef;
+
+
+}
