@@ -311,12 +311,11 @@ body{
 .section-header h1{
   margin: 0;
   padding: 0;
-  width: 100%;
   font-size: 35px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 600;
-    cursor: default;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  cursor: default;
 
 }
 .aboutme-content h2{
