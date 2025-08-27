@@ -308,6 +308,10 @@ body{
     font-family: 'Poppins', sans-serif;
   
 }
+.section-header{
+  margin: 0;
+  padding: 0;
+}
 .aboutme-content h2{
     font-size: 25px;
     color: #fff;
