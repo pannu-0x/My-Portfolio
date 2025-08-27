@@ -108,6 +108,7 @@ body{
     max-width: 450px;
     margin-right: 50px ;
     margin-bottom: 30px;
+    border-radius: 10px;
     opacity: 0;
     animation: zoomIn 2s ease forwards;
     animation-delay: .2s;
