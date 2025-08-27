@@ -175,7 +175,12 @@ body{
     justify-content: center;
     align-items: center;
 }
-.aboutme-content pre{
+.aboutme-content p{
+  color: #fff;
+
+}
+
+.aboutme-content h5{
   color: #fff;
 
 }
