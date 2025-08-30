@@ -155,8 +155,8 @@ body{
     margin: 30px 15px 30px 0;
     transition: .5s ease;
     opacity: 0;
-    animation: slideTop 1s ease forwards;
-    animation-delay: 1s;
+    animation: slideLeft 1s ease forwards;
+    animation-delay: calc(.1s * (--i));
 }
 
 /*  KEYFRAME ANIMATION*/
