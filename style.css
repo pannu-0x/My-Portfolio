@@ -282,16 +282,11 @@ body{
 
 /* About Me css */
 
-.about{
-    position: relative;
-    background-color: #1f242d;
-    width: 100%;
-    height: 100vh;
+.container{
     display: flex;
-    justify-content: space-between;
-    padding: 10% 100px 0;
-    font-family: 'Poppins', sans-serif;
-  
+    width: 100%;
+    height: 20px;
+    background: transparent;
 }
 .section-header h1{
   margin: 0;
