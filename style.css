@@ -140,17 +140,20 @@ body{
     box-shadow: 0 0 20px #0ef;
 }
 
-.btn{
-    display: inline-block;
-    padding: 12px 28px;
-    background: #0ef;
-    border-radius: 40px;
-    box-shadow: 0 0 10px #0ef;
-    font-size: 16px;
-    color: #1f242d;
-    letter-spacing: 1px;
+.home-content btn{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid #0ef;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #0ef;
     text-decoration: none;
-    font-weight: 600;
+    margin: 30px 15px 30px 0;
+    transition: .5s ease;
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 1s;
