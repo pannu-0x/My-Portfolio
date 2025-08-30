@@ -288,40 +288,5 @@ body{
     height: 100vh;
     background: transparent;
     font-weight: 700;
-    margin-top: 50px;
-}
-.section-header h1{
-  margin: 0;
-  padding: 0;
-  font-size: 35px;
-  color: #fff;
-  text-decoration: none;
-  font-weight: 600;
-  cursor: default;
-
-}
-.about-content h2{
-    font-size: 25px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 600;
-    justify-content: center;
-    align-items: center;
-}
-.about-content p{
-  font-size: 16px;
-  
-  color: #fff;
-
-}
-
-.about-content h5{
-  color: #fff;
-
-}
-
-.highlight{
-  color: #0ef;
-
-
+    margin-top: 70px;
 }
