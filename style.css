@@ -289,6 +289,6 @@ body{
     background: transparent;
     font-weight: 700;
     padding: 40px 20%;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
