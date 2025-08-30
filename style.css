@@ -288,5 +288,6 @@ body{
     height: 100vh;
     background: transparent;
     font-weight: 700;
-    margin-top: 70px;
+    margin-top: 90px;
+    padding: 60px 20%;
 }
