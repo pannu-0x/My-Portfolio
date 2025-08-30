@@ -290,4 +290,6 @@ body{
     font-weight: 700;
     margin-top: 90px;
     padding: 60px 20%;
+    justify-content: center;
+    align-items: center;
 }
