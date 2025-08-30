@@ -140,15 +140,15 @@ body{
     box-shadow: 0 0 20px #0ef;
 }
 
-.home-content email{
+.contact-info  email{
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 40px;
+    width: 90px;
     height: 40px;
     background: transparent;
     border: 2px solid #0ef;
-    border-radius: 70%;
+    border-radius: 50px;
     font-size: 25px;
     color: #0ef;
     text-decoration: none;
