@@ -282,7 +282,7 @@ body{
 
 /* About Me css */
 
-.aboutme{
+.about{
     position: relative;
     background-color: #1f242d;
     width: 100%;
@@ -303,7 +303,7 @@ body{
   cursor: default;
 
 }
-.aboutme-content h2{
+.about-content h2{
     font-size: 25px;
     color: #fff;
     text-decoration: none;
@@ -311,14 +311,14 @@ body{
     justify-content: center;
     align-items: center;
 }
-.aboutme-content p{
+.about-content p{
   font-size: 16px;
   
   color: #fff;
 
 }
 
-.aboutme-content h5{
+.about-content h5{
   color: #fff;
 
 }
