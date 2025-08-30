@@ -140,24 +140,6 @@ body{
     box-shadow: 0 0 20px #0ef;
 }
 
-.contact-info  email{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 90px;
-    height: 40px;
-    background: transparent;
-    border: 2px solid #0ef;
-    border-radius: 50px;
-    font-size: 25px;
-    color: #0ef;
-    text-decoration: none;
-    margin: 30px 15px 30px 0;
-    transition: .5s ease;
-    opacity: 0;
-    animation: slideLeft 1s ease forwards;
-    animation-delay: calc(.1s * (--i));
-}
 
 /*  KEYFRAME ANIMATION*/
 @keyframes slideRight {
