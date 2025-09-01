@@ -301,9 +301,8 @@ body{
         
 .about-text h3 {
             font-size: 30px;
-            color: #fff;
+            color: #0ef;
             margin-bottom: 200px;
-            margin-left: 100px;
             background-color: #1f242d;
 
         }
@@ -312,12 +311,10 @@ body{
     color: #fff;
     background-color: #1f242d;
     align-items: justify;
-    box-sizing: border-box;
 }
 #p2{
     font-size: 22px;
     color: #fff;
     background-color: #1f242d;
     align-items: justify;
-    box-sizing: border-boxs;
 }
