@@ -287,13 +287,9 @@ body{
             grid-template-columns: 1fr 1fr;
             gap: 3rem;
             align-items: center;
-            margin-top: 20px;
+            margin-top: 40px;
         }
-        
-        .about-image {
-            border-radius: 20px; 
-        }
-        
+
         .about-image img {
             max-width: 300px;
             margin-right: 50px ;
