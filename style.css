@@ -284,9 +284,10 @@ body{
 
 .container{
     width: 100%;
-    padding: 60px 30%;
+    padding: 30px 10%;
     background: transparent;
     display: flex;
+    margin-top: 20px;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
