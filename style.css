@@ -299,10 +299,6 @@ body{
             animation-delay: .2s;
         }
         
-        .about-image:hover img {
-            border-color: #0ef;
-        }
-        
         .about-text h3 {
             font-size: 1.8rem;
             margin-bottom: 1rem;
