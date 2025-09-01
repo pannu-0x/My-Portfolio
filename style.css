@@ -284,10 +284,16 @@ body{
 
 .container{
     width: 100%;
-    padding: 20px 10%;
+    padding: 60px 30%;
     background: transparent;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+}
+.container h2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
 }
