@@ -300,8 +300,8 @@ body{
         }
         
         .about-text h3 {
-            font-size: 1.8rem;
-            margin-bottom: 1rem;
-            color: var(--primary-color);
+            font-size: 16px;
+            color: #fff;
+            background-color: #1f242d;
         }
 
