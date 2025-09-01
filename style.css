@@ -295,5 +295,5 @@ body{
 .container h2{
   display: flex;
   align-items: center;
-  margin: 0;
+  margin-right: 100px;
 }
