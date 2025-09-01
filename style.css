@@ -317,3 +317,8 @@ body{
     background-color: #1f242d;
     align-items: justify;
 }
+.sectionh2{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
