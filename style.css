@@ -302,7 +302,7 @@ body{
 .about-text h3 {
             font-size: 30px;
             color: #fff;
-            margin-bottom: 150px;
+            margin-bottom: 200px;
             margin-left: 100px;
             background-color: #1f242d;
 
@@ -310,16 +310,14 @@ body{
 #p1{
     font-size: 22px;
     color: #fff;
-    
-    margin-right: 100px;
     background-color: #1f242d;
     align-items: justify;
+    box-sizing: border-box;
 }
 #p2{
     font-size: 22px;
     color: #fff;
-    
-    margin-right: 100px;
     background-color: #1f242d;
     align-items: justify;
+    box-sizing: border-boxs;
 }
