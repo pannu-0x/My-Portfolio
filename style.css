@@ -309,4 +309,11 @@ body{
     font-size: 22px;
     color: #fff;
     background-color: #1f242d;
+    align-items: justify;
+}
+#p2{
+    font-size: 22px;
+    color: #fff;
+    background-color: #1f242d;
+    align-items: justify;
 }
