@@ -290,7 +290,7 @@ body{
             margin-top: 100px;
         }
 
-        .about-image img {
+.about-image img {
             max-width: 380px;
             margin-right: 50px ;
             margin-bottom: 30px;
@@ -299,10 +299,14 @@ body{
             animation-delay: .2s;
         }
         
-        .about-text h3 {
-            font-size: 20px;
+.about-text h3 {
+            font-size: 30px;
             color: #fff;
             background-color: #1f242d;
 
         }
-
+#p1{
+    font-size: 22px;
+    color: #fff;
+    background-color: #1f242d;
+}
