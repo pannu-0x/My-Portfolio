@@ -302,7 +302,7 @@ body{
 .about-text h3 {
             font-size: 30px;
             color: #fff;
-            row-gap: 5rem;
+            margin-bottom: 100px;
             background-color: #1f242d;
 
         }
