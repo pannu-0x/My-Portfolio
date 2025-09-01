@@ -302,19 +302,23 @@ body{
 .about-text h3 {
             font-size: 30px;
             color: #fff;
-            margin-bottom: 100px;
+            margin-bottom: 120px;
             background-color: #1f242d;
 
         }
 #p1{
     font-size: 22px;
     color: #fff;
+    margin-left: 20px;
+    margin-right: 60px;
     background-color: #1f242d;
     align-items: justify;
 }
 #p2{
     font-size: 22px;
     color: #fff;
+     margin-left: 20px;
+    margin-right: 60px;
     background-color: #1f242d;
     align-items: justify;
 }
