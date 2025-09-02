@@ -400,7 +400,7 @@ body {
   .timeline li:nth-child(odd) {
     float: left;
     clear: both;
-    transform: translateX(-20%);
+    transform: translateX(-40%);
     text-align: left;
   }
 
