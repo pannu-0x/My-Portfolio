@@ -346,12 +346,10 @@ body {
 }
 
 .education-card h3 {
-  color: var(--dark-blue);
   margin-bottom: 1rem;
   font-size: 1.3rem;
 }
 
 .education-card p {
-  color: var(--text-light);
   margin-bottom: 0.5rem;
 }
