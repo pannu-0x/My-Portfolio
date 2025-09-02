@@ -324,19 +324,7 @@ body {
 
 /* Education Section */
  /* Reset */
-  * {
-    box-sizing: border-box;
-  }
-
-  body {
-    background-color: #1f242d;
-    color: #0ef;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 40px 20px;
-  }
-
-  .container {
+.container {
     max-width: 900px;
     margin: auto;
     text-align: center;
