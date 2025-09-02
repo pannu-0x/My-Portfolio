@@ -307,12 +307,10 @@ body {
   text-align: center;
 }
 .about-image img {
-  border-radius: 1rem;
-  box-shadow: 0 8px 16px rgb(0 0 0 / 0.4);
   width: 100%;
-  max-width: 320px;
+  max-width: 450px;
   height: auto;
-  object-fit: cover;
+  
 }
 @media (max-width: 768px) {
   .about-section {
