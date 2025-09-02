@@ -276,14 +276,13 @@ body {
 }
 
 /* About Me css */
+.about-me-header {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
 
-nav a {
-  transition: color 0.3s;
-}
-nav a.active,
-nav a:hover {
-  color: #14b8a6; /* teal-400 */
-}
 .container {
   max-width: 1000px;
   margin: 3rem auto;
