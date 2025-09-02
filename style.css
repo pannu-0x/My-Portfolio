@@ -327,6 +327,7 @@ body {
 .container {
     max-width: 900px;
     margin: auto;
+    height: 100vh;
     text-align: center;
   }
 
