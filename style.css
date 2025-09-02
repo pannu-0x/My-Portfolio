@@ -104,7 +104,7 @@ body {
 .home-img img {
   max-width: 450px;
   margin-right: 50px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   opacity: 0;
   animation: zoomIn 2s ease forwards;
   animation-delay: 0.2s;
