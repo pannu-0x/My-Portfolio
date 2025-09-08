@@ -322,54 +322,7 @@ body {
   }
 }
 
-body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #1e272e;
-      color: #fff;
-      line-height: 1.6;
-    }
 
-    /* Navigation */
-    nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 1rem 2rem;
-      background-color: #111822;
-      top: 0;
-      z-index: 100;
-    }
-
-    nav .logo {
-      font-weight: 800;
-      font-size: 1.3rem;
-      color: white;
-    }
-
-    nav ul {
-      display: flex;
-      list-style: none;
-      gap: 1.5rem;
-      margin: 0;
-      padding: 0;
-    }
-
-    nav ul li {
-      cursor: pointer;
-    }
-
-    nav ul li a {
-      color: #cbd6e2;
-      text-decoration: none;
-      font-weight: 500;
-      transition: color 0.3s ease;
-    }
-
-    nav ul li a:hover,
-    nav ul li a.active {
-      color: #00c3ff;
-    }
 
 
     /* Page Container */
