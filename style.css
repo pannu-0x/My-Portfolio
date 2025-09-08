@@ -279,6 +279,14 @@ body {
       margin: 3rem auto 5rem auto;
       padding: 0 1rem;
     }
+    .abouth2{
+      display: flex;
+      background-color: #1f242d;
+      color: #fff;
+      justify-content: center;
+      align-content: center;
+      margin: 20px;
+    }
 
     .intro {
       display: flex;
