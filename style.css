@@ -328,7 +328,8 @@ body {
     /* Page Container */
     .container {
       max-width: 900px;
-      margin: 2rem auto 4rem;
+      margin: 4rem auto 4rem;
+
       padding: 0 1rem;
     }
 
