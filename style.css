@@ -498,11 +498,11 @@ body {
     }
 
     /* Skill Section */
-    
+
     /* Main container */
     main {
       flex: 1;
-      padding: 3rem 4rem;
+      padding: 6rem 4rem;
       max-width: 1200px;
       margin: auto;
       width: 100%;
