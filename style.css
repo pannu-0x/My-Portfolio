@@ -569,3 +569,22 @@ body {
         padding: 2rem 1.5rem;
       }
     }
+
+
+     /* Custom scrollbar for inputs */
+  input, textarea {
+    scrollbar-width: thin;
+    scrollbar-color: #22d3ee transparent;
+  }
+  input::-webkit-scrollbar, textarea::-webkit-scrollbar {
+    width: 8px;
+  }
+  input::-webkit-scrollbar-thumb, textarea::-webkit-scrollbar-thumb {
+    background-color: #22d3ee;
+    border-radius: 10px;
+  }
+  input:focus, textarea:focus {
+    outline: none;
+    border-color: #06b6d4;
+    box-shadow: 0 0 5px #06b6d4;
+  }
