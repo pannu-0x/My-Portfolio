@@ -496,3 +496,76 @@ body {
         padding: 0 0.5rem;
       }
     }
+
+    /* Skill Section */
+    
+    /* Main container */
+    main {
+      flex: 1;
+      padding: 3rem 4rem;
+      max-width: 1200px;
+      margin: auto;
+      width: 100%;
+    }
+
+    /* Section Heading */
+    .section-heading {
+      font-size: 2.8rem;
+      font-weight: 700;
+      margin-bottom: 2.4rem;
+      color: #00d8ff;
+      border-left: 6px solid #00d8ff;
+      padding-left: 1rem;
+    }
+
+    /* Skills Card Container */
+    .skills-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+      gap: 2rem;
+    }
+
+    /* Individual Skill Card */
+    .skill-card {
+      background-color: #1e2733;
+      border-radius: 12px;
+      padding: 1.8rem 2rem;
+      box-shadow: 0 6px 15px rgba(0, 216, 255, 0.15);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      cursor: default;
+    }
+
+    .skill-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 12px 25px rgba(0, 216, 255, 0.3);
+    }
+
+    /* Skill Title */
+    .skill-title {
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #00d8ff;
+      margin-bottom: 0.8rem;
+      letter-spacing: 0.04em;
+    }
+
+    /* Skill Description */
+    .skill-description {
+      font-size: 1rem;
+      color: #b0b8c1;
+      line-height: 1.4;
+      user-select: none;
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      nav {
+        padding: 1rem 1.5rem;
+      }
+      nav ul {
+        gap: 1.4rem;
+      }
+      main {
+        padding: 2rem 1.5rem;
+      }
+    }
