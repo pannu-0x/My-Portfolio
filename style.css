@@ -280,12 +280,13 @@ body {
       padding: 0 1rem;
     }
     .abouth3{
-      display: flex;
-      background-color: #1f242d;
-      color: #fff;
-      justify-content: center;
-      align-content: center;
-      margin-top: 70px;
+      font-size: 2.8rem;
+      margin-left: 40%;
+      font-weight: 700;
+      margin-bottom: 2.4rem;
+      color: #00d8ff;
+      text-decoration: underline;
+      padding-left: 1rem;
     }
 
     .intro {
