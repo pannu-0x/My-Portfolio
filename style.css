@@ -510,13 +510,12 @@ body {
 
     /* Section Heading */
     .section-heading {
-      font-size: 2.8rem;
-      margin-left: 40%;
-      font-weight: 700;
-      margin-bottom: 2.4rem;
-      color: #00d8ff;
-      text-decoration: underline;
-      padding-left: 1rem;
+      text-align: center;
+      font-weight: 500;
+      font-size: 2rem;
+      color: white;
+      margin-bottom: 3rem;
+      letter-spacing: 0.05em;
     }
 
     /* Skills Card Container */
@@ -543,12 +542,11 @@ body {
 
     /* Skill Title */
     .skill-title {
-      text-align: center;
-      font-weight: 500;
-      font-size: 2rem;
-      color: white;
-      margin-bottom: 3rem;
-      letter-spacing: 0.05em;
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #00d8ff;
+      margin-bottom: 0.8rem;
+      letter-spacing: 0.04em;
     }
 
     /* Skill Description */
