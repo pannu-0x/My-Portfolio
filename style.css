@@ -515,7 +515,7 @@ body {
       font-weight: 700;
       margin-bottom: 2.4rem;
       color: #00d8ff;
-      border-bottom: 4px solid #00d8ff;
+      text-decoration: underline;
       padding-left: 1rem;
     }
 
